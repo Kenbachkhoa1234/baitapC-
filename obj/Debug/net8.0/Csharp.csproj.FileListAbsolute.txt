@@ -2,6 +2,7 @@ C:\Users\Khanh\OneDrive\Máy tính\Csharp\obj\Debug\net8.0\Csharp.GeneratedMSBui
 C:\Users\Khanh\OneDrive\Máy tính\Csharp\obj\Debug\net8.0\Csharp.AssemblyInfoInputs.cache
 C:\Users\Khanh\OneDrive\Máy tính\Csharp\obj\Debug\net8.0\Csharp.AssemblyInfo.cs
 C:\Users\Khanh\OneDrive\Máy tính\Csharp\obj\Debug\net8.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Khanh\OneDrive\Máy tính\Csharp\obj\Debug\net8.0\Csharp.sourcelink.json
 C:\Users\Khanh\OneDrive\Máy tính\Csharp\bin\Debug\net8.0\Csharp.exe
 C:\Users\Khanh\OneDrive\Máy tính\Csharp\bin\Debug\net8.0\Csharp.deps.json
 C:\Users\Khanh\OneDrive\Máy tính\Csharp\bin\Debug\net8.0\Csharp.runtimeconfig.json
